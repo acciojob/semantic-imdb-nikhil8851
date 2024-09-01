@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+nav a:hover {
+            text-decoration: underline;
+        }
+ .container {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            margin: 20px;
+        }
+
+  aside {
+            background-color: silver;
+            padding: 15px;
+            border-radius: 10px;
+        }
+footer{
+	 background-color: skyblue;
+            padding: 15px;
+            border-radius: 10px;
+}
+
+       h1{
+		   text-align:center;
+		  
+	   }
